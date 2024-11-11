@@ -9,4 +9,3 @@ for valor in range(10):
         print("El número está entre 10 y 100.")
     else:
         print("El número es mayor que 100.")
-
