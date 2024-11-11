@@ -16,4 +16,3 @@ if contador > 0:
     print(f"El promedio es: {promedio}")
 else:
     print("No se ingresaron valores en el rango especificado.")
-
