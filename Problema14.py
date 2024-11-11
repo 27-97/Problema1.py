@@ -11,3 +11,4 @@ promedio = suma / 10
 
 print(f"La suma es: {suma}")
 print(f"El promedio es: {promedio}")
+
