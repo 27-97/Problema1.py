@@ -14,3 +14,4 @@ valor10= int(input("ingrese numero"))
 
 suma= ("la suma es igual a", valor1 + valor2 +valor3 + valor4 + valor5 + valor6 + valor7 + valor8 + valor9 + valor10)
 print(suma)
+
