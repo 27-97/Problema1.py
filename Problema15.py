@@ -30,3 +30,4 @@ print(f"Entre 10 y 100: {entre_10_y_100}")
 print(f"Mayor a 100: {mayor_100}")
 print(f"Negativos: {negativos}")
 print(f"Igual a 0: {igual_0}")
+
