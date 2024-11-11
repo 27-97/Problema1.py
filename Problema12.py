@@ -8,3 +8,4 @@ while suma <= 78500:
     suma += valor
 
 print(f"La suma total es: {suma}")
+
