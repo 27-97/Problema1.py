@@ -7,5 +7,3 @@ for alumno in range(1, 25):
     apellido = input(f"Ingrese el apellido del alumno {alumno}: ")
     nota = float(input(f"Ingrese la nota del examen del alumno {alumno}: "))
     print(f"Alumno: {apellido}, {nombre} - Nota: {nota}")
-
-
